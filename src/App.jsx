@@ -11,7 +11,7 @@ function App() {
 
     <div>
 
-        big game
+        big game welcome
     </div>
 
 
